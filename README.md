@@ -1,6 +1,7 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+# Repositorio TodoMachine
 
 App Todo Machine realizada con React js
+Deploy en GitHub pages: https://smposse2022.github.io/TodoMachine/
 Santiago Posse
 
 ## Getting Started with Create React App
